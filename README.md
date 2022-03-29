@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @H-Wilderspin
-- 👀 I’m interested in becoming a full-stack dev.
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on study projects.
+- 👋 Hi, I’m @H-Wilderspin, I have no content worth sharing just yet, check back soon!
 
 <!---
 H-Wilderspin/H-Wilderspin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
